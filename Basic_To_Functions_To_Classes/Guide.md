@@ -1,6 +1,5 @@
 # 🧠 Day 01: Python Basics to Functions & Classes
-Welcome to Day 1! Today you'll get a hands-on intro to:
-
+context
 1. Variables
 2. Data Types  
 3. Input/Output  
@@ -18,8 +17,9 @@ By the end of this folder, you must  be able to:
 - Create basic classes and understand objects
 
 ## Try the Code
-Open The files with the naming 'learn_00_code.py' to the end,read along, and run each section.
-It is very important that you do not copy and paste.
+Open The files with the naming 'learn_00_code.py' to the end,read along, and do the exercises therein.
+It is very important that you Do **not** move on to the next file until you've completed the current one.
+
 
 ## Practice Challenges
 - Create 4 variables and store them  and then  print out these variables .

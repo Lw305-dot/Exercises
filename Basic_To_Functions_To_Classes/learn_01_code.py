@@ -1,62 +1,55 @@
-#VARIABLES & DATA TYPES
-name="Alice"
-age=25
-height=5.8
-is_student= True
+# ================================
+# 🧠 Python Syntax Workbook
+# File: learn_01_code.py
+# Complete each exercise by following the instructions.
+# ================================
 
-print("Name:", name)
-print("Age:", age)
-print("Student?", is_student)
 
-# ✅ INPUT / OUTPUT
-# Uncomment to try!
-# user_name = input("Enter your name: ")
-# print(f"Hello, {user_name}!")
+# --------------------------------
+# ✅ Exercise 1: Fix the Syntax Error
+# --------------------------------
+# There’s a syntax error in the line below. Uncomment and fix it.
 
-# ✅ IF-ELSE
-if age >= 18:
-    print("You are an adult.")
-else:
-    print("You are a minor.")
+# print("Hello, world!'
 
-# ✅ LOOPS
-# For loop
-for i in range(1, 6):
-    print("Counting:", i)
 
-# While loop
-count = 1
-while count <= 3:
-    print("While loop:", count)
-    count += 1
+# --------------------------------
+# ✅ Exercise 2: Add Two Numbers
+# --------------------------------
+# Add the numbers 4 and 7, and print the result.
 
-# ✅ FUNCTIONS
-def greet(name):
-    return f"Hello, {name}!"
+# Your code here:
 
-print(greet("Bob"))
 
-def add(a, b):
-    return a + b
 
-print("Addition:", add(3, 4))
+# --------------------------------
+# ✅ Exercise 3: Print a Sentence with a Variable
+# --------------------------------
+# Create a variable called `name` and assign it your name.
+# Then print a greeting using that variable (e.g., Hello, Alice!)
 
-# ✅ FUNCTION WITH DEFAULT ARGUMENTS
-def power(base, exponent=2):
-    return base ** exponent
+# Your code here:
 
-print("Power:", power(3))
-print("Power with exponent:", power(2, 5))
 
-# ✅ CLASSES & OBJECTS
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
 
-    def introduce(self):
-        print(f"My name is {self.name}, and I'm {self.age} years old.")
+# --------------------------------
+# ✅ Exercise 4: Fix the If Statement
+# --------------------------------
+# The code below has syntax errors. Rewrite it correctly to check if x is greater than 5.
 
-# Creating an object
-person1 = Person("Charlie", 30)
-person1.introduce()
+"""
+x = 10
+if x > 5
+print("x is greater than 5")
+"""
+
+# Your corrected version here:
+
+
+
+# --------------------------------
+# ✅ Exercise 5: String vs Integer
+# --------------------------------
+# What will this print? Try running it and write your answer as a comment.
+
+print("2 + 3")  # Your answer: ____________________
