@@ -1,0 +1,2 @@
+# Exercises
+for daily coding
